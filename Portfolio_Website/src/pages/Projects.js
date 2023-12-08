@@ -3,39 +3,32 @@ import { Card } from "react-bootstrap";
 import { motion } from "framer-motion";
 import project1 from "../images/project1.jpg";
 import project2 from "../images/project2.jpg";
+import project3 from "../images/project3.jpg";
+import project4 from "../images/project4.jpg";
 
 const Projects = () => {
   const projectList = [
     {
       id: 1,
-      name: "Marketing site design & build",
+      name: "ToDo App",
       imageUrl: project1,
     },
     {
       id: 2,
-      name: "Glide Utilities",
+      name: "Text Analyzer",
       imageUrl: project2,
     },
     {
       id: 3,
-      name: "Noton High Street Product",
-      imageUrl: project1,
+      name: "Contact Box",
+      imageUrl: project3,
     },
     {
       id: 4,
-      name: "Gifts and Voucher Today",
-      imageUrl: project2,
+      name: "Portfolio Site",
+      imageUrl: project4,
     },
-    {
-      id: 5,
-      name: "Productkart Studio",
-      imageUrl: project1,
-    },
-    {
-      id: 6,
-      name: "Library Management",
-      imageUrl: project2,
-    },
+    
   ];
 
   return (

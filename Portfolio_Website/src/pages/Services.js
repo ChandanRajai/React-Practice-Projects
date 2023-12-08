@@ -1,25 +1,26 @@
 import React from "react";
 import { Card } from "react-bootstrap";
 import { motion } from "framer-motion";
-import project1 from "../images/project1.jpg";
-import project2 from "../images/project2.jpg";
+import android from "../images/android.jpg";
+import web from "../images/web.jpg";
+import python from "../images/python.jpg";
 
 const Services = () => {
   const serviceList = [
     {
       id: 1,
       name: "Android Development",
-      imageUrl: project2,
+      imageUrl: android,
     },
     {
       id: 2,
       name: "Web Application Development",
-      imageUrl: project1,
+      imageUrl: web,
     },
     {
       id: 3,
       name: "Python Development",
-      imageUrl: project2,
+      imageUrl: python,
     },
   ];
 
