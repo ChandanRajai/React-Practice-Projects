@@ -21,7 +21,7 @@ A responsive eCommerce frontend developed with React.js and Redux. The project s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/javascript-react-practice.git
+   git clone https://github.com/ChandanRajai/React-Practice-Projects.git
    
 2. Contributing
 
