@@ -1,3 +1,24 @@
+# ContactBox - React Contact Manager App
+
+Welcome to ContactBox, a React-based Contact Manager application where you can explore the basics of React in action.
+
+## Live Demo
+
+Check out the live demo [here](  https://contactbox.netlify.app/  ).
+
+## Features
+
+- **Contact Management:** Add, view, and delete contacts.
+- **Responsive Design:** Enjoy a seamless experience on various devices.
+
+## Tech Stack
+  React
+  HTML
+  CSS
+  JavaScript
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
