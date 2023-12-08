@@ -1,3 +1,18 @@
+# Chandan Rajai - Portfolio Site
+
+Welcome to the repository for my personal portfolio site built with React!
+
+
+## Live Demo
+
+Check out the live demo [here](  https://chandanrajai.netlify.app/  ).
+
+## Features
+
+- **Responsive Design:** Experience seamless navigation on various devices.
+- **Project Showcase:** Explore my projects and experiences.
+- **Contact Section:** Get in touch with me directly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
