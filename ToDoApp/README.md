@@ -13,11 +13,3 @@ Check out the live demo [here](  https://6572d0b7836c4c58895339f2--t0d0appprojec
 - **Task Management:** Create, delete, and update tasks.
 - **Status Updates:** Easily track the status of your tasks.
 
-## Getting Started
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/todo-application.git
