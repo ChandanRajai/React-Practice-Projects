@@ -1,3 +1,18 @@
+# Text Analyzer
+
+Welcome to the Text Analyzer repository! This project is a Text Analyzer app built with React.js, Bootstrap, and JavaScript, showcasing advanced skills in React.js.
+
+
+## Features
+
+- **Dynamic UI Updates:** Experience real-time updates to the user interface.
+- **Text Transformations:** Perform text transformations such as uppercase, lowercase, and space removal.
+- **Copy to Clipboard:** Copy the transformed text to the clipboard effortlessly.
+
+## Live Demo
+
+Check out the live demo [here]( https://accuratetextanalyzer.netlify.app/ ).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
